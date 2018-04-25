@@ -1,0 +1,33 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  background-color: #2E3D4D;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+h2 {
+	min-height: 75px; 
+}
+
+img {
+  height: 200px;
+  object-fit: cover;
+
+}
+.width-100 {
+	width: 90%;
+	margin-top: 15px;
+}
+
+.carte {
+	background-color: white;
+	border-radius: 5px;
+	color:#2E3D4D ;
+	padding: 10px;
+	margin: 10px;
+}
