@@ -1,0 +1,55 @@
+body {
+	background-color: powderblue;
+	text-align: center;
+	font-family: lato, sans-serif; 
+}
+
+h1 {
+	font-size: 36px;
+}
+
+h2	{
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 18px;
+}
+
+a {
+	text-decoration: none;
+	color: #3D8ABB;
+}
+
+a:hover {
+	text-decoration: none;
+	color:#E84089;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/5317/food-salad-restaurant-person.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
